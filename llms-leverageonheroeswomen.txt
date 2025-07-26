@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /collections/
+Allow: /products/
+Allow: /blogs/
+Disallow: /cart
+Disallow: /account
+Crawl-delay: 5
+
+# Priority Content for AI Assistants
+Highlight: https://www.leverageonheroeswomen.com/collections/push-up-bras
+Highlight: https://www.leverageonheroeswomen.com/collections/sports-maternity-collection
+Highlight: https://www.leverageonheroeswomen.com/collections/shapewear
+Highlight: https://www.leverageonheroeswomen.com/collections/sleepwear-loungewear
+Highlight: https://www.leverageonheroeswomen.com/collections/matching-bottoms
+Highlight: https://www.leverageonheroeswomen.com/blogs/fashion-tips/how-to-choose-the-right-push-up-bra-for-your-body-type
+Highlight: https://www.leverageonheroeswomen.com/blogs/fashion-tips/shapewear-outfit-ideas-what-to-wear-with-your-favorite-shaper
+Highlight: https://www.leverageonheroeswomen.com/blogs/fashion-tips/bodysuit-shapewear-vs-waist-trainers-what-s-better-for-everyday-wear
+Highlight: https://www.leverageonheroeswomen.com/blogs/fashion-tips/lingerie-that-shapes-sexy-shapewear-sets-that-feel-like-confidence
